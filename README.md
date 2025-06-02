@@ -1,5 +1,7 @@
 # 🌤️ Weather App - PHP & AJAX
 
+![Weather App Background](assets/bg.jpg)
+
 ## 📄 Description
 Cette application météo simple, développée en PHP avec AJAX, permet à l'utilisateur de rechercher la météo actuelle et la prévision sur 5 jours pour n'importe quelle ville via l'API OpenWeatherMap. Les données se mettent à jour sans recharger la page.
 
